@@ -124,7 +124,7 @@ article {
 
 .post-image img {
     max-width: 100%;
-    max-height: 600px;
+    max-height: auto;
     height: auto;
     display: inline-block;
 }
